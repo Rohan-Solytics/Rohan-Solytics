@@ -1,6 +1,6 @@
 ### Hi I'm Rohan!
 
-- 🔭 I’m currently working as Backen Developer Consultant @Solytics-Partners
+- 🔭 I’m currently working as Backend Developer Consultant @Solytics-Partners
 - 😄 Pronouns: He/Him
 <!---
 Rohan-Solytics/Rohan-Solytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
